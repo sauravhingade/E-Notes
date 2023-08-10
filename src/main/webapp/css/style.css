@@ -1,0 +1,27 @@
+.bg-custom{
+	background:#8e24aa;
+}
+.navbar .nav-item .nav-link{
+	font-size: 20px;
+	color:white;
+	
+	transition: backgroumd 0.5s;
+}
+ .nav-link:hover{
+	color: black;
+	color: black;
+	border-radius: 13px;
+	color: black;
+	}
+ .navbar .btn-light{
+		background-color:white;
+		margin-right: 3px;
+		margin-left: 5px;
+	}
+	.navbar .nav-item .fa-solid{
+		margin-right: 5px;
+		font-size: 19px;
+		
+	}
+	
+	
